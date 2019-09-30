@@ -3,7 +3,7 @@
 ## Installation
 1. Pull the project
 2. cd to `gallery` folder
-3. run `composer update'
+3. run `composer update`
 
 ## Run
 
